@@ -21,4 +21,14 @@
 - SQL (SQLite or PostgreSQL)
 - pandas, scikit-learn, matplotlib
 
+
+
+## Data
+
+The dataset is not included in the repo due to size.
+
+Download from: [Kaggle Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+
+Place the file in:`Churn-Prediction-Pipeline\data\raw\WA_Fn-UseC_-Telco-Customer-Churn.csv`
+
 (More details coming as project progresses...)
